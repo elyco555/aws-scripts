@@ -1,5 +1,4 @@
 
 Type: "AWS::EC2::EIP"
 Properties:
-  InstanceId: i-0e95763475d0013a3
-  Domain: vpc-d96544bd
+  Domain: vpc
